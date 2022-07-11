@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Bexzod",
+        "email":"bexzodcoder@gmail.com",
+        "number":8888
+    },
+    {
+        "id":2,
+        "name":"Jasur",
+        "email":"jasurcoder@gmail.com",
+        "number":8888
+    },
+    {
+        "id":3,
+        "name":"Mirjahon",
+        "email":"mirjahoncoder@gmail.com",
+        "number":8888
+    },
+    {
+        "id":4,
+        "name":"Shohsulton",
+        "email":"shohcoder@gmail.com",
+        "number":8888
+    }
+]
